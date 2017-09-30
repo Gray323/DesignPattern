@@ -1,4 +1,4 @@
-package com.rxd.designpattern.FactoryPattern;
+package com.rxd.designpattern.SimpleFactoryPattern;
 
 /**
  * Created by Administrator on 2017/9/28.
